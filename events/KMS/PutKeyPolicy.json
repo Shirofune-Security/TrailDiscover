@@ -19,7 +19,7 @@
             "link": "https://blog.pepperclipp.com/pepperclipp-public/encrypting-buckets-for-compliance-and-ransom-how-attackers-can-use-kms-to-ransomware-s3-buckets"
         }
     ],
-    "securityImplications": "Attackers might put a new key polocy to modify the policy of a current KMS Key and lock the data for ransomware attacks.",
+    "securityImplications": "Attackers might put a new key policy to modify the policy of a current KMS Key and lock the data for ransomware attacks.",
     "alerting": [],
     "simulation": [
         {
